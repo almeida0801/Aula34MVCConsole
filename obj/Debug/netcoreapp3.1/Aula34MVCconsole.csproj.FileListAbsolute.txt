@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\bin\Debug\netcoreapp3.1\Aula34MVCconsole.exe
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\bin\Debug\netcoreapp3.1\Aula34MVCconsole.deps.json
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\bin\Debug\netcoreapp3.1\Aula34MVCconsole.runtimeconfig.json
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\bin\Debug\netcoreapp3.1\Aula34MVCconsole.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\bin\Debug\netcoreapp3.1\Aula34MVCconsole.dll
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\bin\Debug\netcoreapp3.1\Aula34MVCconsole.pdb
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\obj\Debug\netcoreapp3.1\Aula34MVCconsole.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\obj\Debug\netcoreapp3.1\Aula34MVCconsole.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\obj\Debug\netcoreapp3.1\Aula34MVCconsole.AssemblyInfo.cs
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\obj\Debug\netcoreapp3.1\Aula34MVCconsole.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\obj\Debug\netcoreapp3.1\Aula34MVCconsole.dll
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\obj\Debug\netcoreapp3.1\Aula34MVCconsole.pdb
+C:\Users\pc\Downloads\Projeto\Aula34MVCconsole\obj\Debug\netcoreapp3.1\Aula34MVCconsole.genruntimeconfig.cache
